@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "elections",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "electionname",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fromdate",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

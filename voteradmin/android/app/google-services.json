@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "397566160786",
+    "project_id": "voterapp-dad4e",
+    "storage_bucket": "voterapp-dad4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397566160786:android:643d2a9223771e9af69b4b",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397566160786-dkg441nnjjsig0mnrhahuj2vlofn9keg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl_UhEHHUubNioKa9ID4QIlcx1ywALZUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397566160786-dkg441nnjjsig0mnrhahuj2vlofn9keg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "397566160786-iosp1lf8voh4911mf2ku2nkmueimro6i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.sniffsocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
